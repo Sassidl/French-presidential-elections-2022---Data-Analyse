@@ -1,8 +1,10 @@
+setuptools>=65.5.1
+distutils-precedence
+wheel>=0.38.0
 streamlit==1.38.0
 streamlit-option-menu==0.3.13
-pandas==1.5.3
-numpy==1.23.5
-matplotlib==3.5.2
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.9.2
 plotly==5.24.1
-seaborn==0.12.2
-distutils
+seaborn==0.13.2
