@@ -11,3 +11,4 @@ scipy==1.9.3
 setuptools==65.5.1
 wheel==0.38.0
 pip==23.0.1
+distutils
