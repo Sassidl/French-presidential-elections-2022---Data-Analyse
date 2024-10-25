@@ -1,0 +1,13 @@
+streamlit
+streamlit-option-menu
+pandas
+numpy
+geopandas
+matplotlib.pyplot
+plotly.express
+plotly.graph_objects
+colorsys
+seaborn
+altair
+scipy.stats
+scipy.interpolate
