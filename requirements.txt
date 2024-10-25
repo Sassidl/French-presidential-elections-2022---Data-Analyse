@@ -8,3 +8,4 @@ seaborn
 missingno
 folium
 streamlit_folium
+openpyxl
